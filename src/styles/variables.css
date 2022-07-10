@@ -1,4 +1,11 @@
 
 :root {
-  --primary-color: #38C3F0
+--color-header: #69d2e8;
+ 
+}
+
+.logo {
+  width: 33px;
+  height: 33px;
+  margin: 0 5px;
 }
